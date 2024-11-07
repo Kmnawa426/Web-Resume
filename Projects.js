@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const projects = [
     { name: "Student Attendance", url: "https://tvcattendencev2.netlify.app/" }
-    { name:"Multi-Text Editor" , url:"https://tvcmultitext.netlify.app/" }
   ];
 
   const projectList = document.getElementById("project-list");
